@@ -1,0 +1,9 @@
+{
+  "appId": "com.albaqali.app",
+  "appName": "Al Baqali",
+  "webDir": "public",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}

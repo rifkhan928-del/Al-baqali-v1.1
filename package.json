@@ -1,0 +1,18 @@
+{
+  "name": "al-baqali-android",
+  "version": "1.0.0",
+  "description": "Al Baqali Android APK wrapper",
+  "private": true,
+  "scripts": {
+    "build": "echo \"Static app - no web build needed\"",
+    "cap:add:android": "npx cap add android",
+    "cap:sync": "npx cap sync android",
+    "android:open": "npx cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "latest",
+    "@capacitor/cli": "latest",
+    "@capacitor/core": "latest"
+  },
+  "devDependencies": {}
+}
